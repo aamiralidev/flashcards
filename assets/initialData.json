@@ -1,0 +1,22 @@
+{
+    "decks": [
+      { "deckId": "1", "name": "Basic 1" },
+      { "deckId": "2", "name": "Basic 2" },
+      { "deckId": "3", "name": "Intermediate 1" },
+      { "deckId": "4", "name": "Intermediate 2" },
+      { "deckId": "5", "name": "Advanced 1" }
+    ],
+    "words": [
+      { "deckId": "1", "word": "apple", "meaning": "A fruit", "status": "unseen" },
+      { "deckId": "1", "word": "banana", "meaning": "A yellow fruit", "status": "unseen" },
+      { "deckId": "2", "word": "cherry", "meaning": "A small red fruit", "status": "unseen" },
+      { "deckId": "2", "word": "date", "meaning": "A sweet fruit", "status": "unseen" },
+      { "deckId": "3", "word": "elephant", "meaning": "A large animal", "status": "unseen" },
+      { "deckId": "3", "word": "fox", "meaning": "A small wild animal", "status": "unseen" },
+      { "deckId": "4", "word": "grape", "meaning": "A small round fruit", "status": "unseen" },
+      { "deckId": "4", "word": "hippopotamus", "meaning": "A large mammal", "status": "unseen" },
+      { "deckId": "5", "word": "igloo", "meaning": "A house made of ice", "status": "unseen" },
+      { "deckId": "5", "word": "jaguar", "meaning": "A large wild cat", "status": "unseen" }
+    ]
+  }
+  
